@@ -4,7 +4,7 @@
 
 The W3C provides guidance on [Developing Organizational Policies on Web Accessibility](https://www.w3.org/WAI/impl/pol), complete with a template. I have adapted that template to a more human readable format, in Markdown, which includes a list of commitments:
 
-[view the raw policy](https://github.com/ascott1/accessibility-policy/blob/master/policy.md)
+[view the raw policy](https://raw.githubusercontent.com/ascott1/accessibility-policy/master/policy.md)
 
 ## The Policy
 
